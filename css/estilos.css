@@ -1,0 +1,16 @@
+#omardiv{
+    margin: 25px;
+    background-color: rgb(171, 109, 109);
+    padding: 25px;
+    width: 750px;
+    height: 500px;
+    border: 15px dotted rgb(142, 55, 55);
+ }
+ #azucenadiv{
+    margin: 25px;
+    background-color: rgb(88, 115, 234);
+    padding: 25px;
+    width: 750px;
+    height: 500px;
+    border: 15px groove rgb(3, 65, 250);
+ }
