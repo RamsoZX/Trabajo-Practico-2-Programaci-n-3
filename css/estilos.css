@@ -1,5 +1,6 @@
 #omardiv{
-    margin: 25px;
+    margin-left: auto;
+    margin-right: auto;
     background-color: rgb(177, 127, 127);
     padding: 25px;
     width: 750px;
@@ -7,7 +8,8 @@
     border: 15px groove rgb(152, 76, 76);
  }
  #azucenadiv{
-    margin: 25px;
+    margin-left: auto;
+    margin-right: auto;
     background-color: rgb(128, 148, 241);
     padding: 25px;
     width: 750px;
@@ -15,7 +17,8 @@
     border: 15px groove rgb(3, 65, 250);
  }
 #lizethdiv{
-    margin: 25px;
+    margin-left: auto;
+    margin-right: auto;
     background-color: rgb(160, 223, 133);
     padding: 25px;
     width: 750px;
@@ -23,15 +26,18 @@
     border: 15px groove rgb(88, 241, 139);
  }
 #sebastiandiv{
-    margin: 25px;
+    margin-left: auto;
+    margin-right: auto;
     background-color: rgb(232, 210, 119);
     padding: 25px;
     width: 750px;
     height: 550px;
     border: 15px groove rgb(219, 152, 52);
+
  }
 #karinadiv{
-    margin: 25px;
+    margin-left: auto;
+    margin-right: auto;
     background-color: rgb(170, 254, 255);
     padding: 25px;
     width: 750px;
@@ -139,7 +145,7 @@ input[type="submit"]:hover {
 
 #divportada h2 {
     font-size: 1.6rem;
-    color: #555555;
+    color: #333333;
     margin: 15px 0;
 }
 
@@ -153,4 +159,18 @@ input[type="submit"]:hover {
     font-size: 1.2rem;
     color: #444;
     padding: 5px 0;
+}
+
+#h1presentacion {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 36px; 
+    margin-top: 40px;
+}
+#omardiv,
+#azucenadiv,
+#lizethdiv,
+#sebastiandiv,
+#karinadiv {
+    margin-bottom: 30px;   
 }
