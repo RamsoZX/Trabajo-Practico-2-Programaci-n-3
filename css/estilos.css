@@ -114,4 +114,13 @@ input[type="submit"]:hover {
     background-color: #cd50fb;
 }
 
+.contenedorFlex h2 {
+    text-align: center;
+    width: 100%;
+    margin: 0;
+}
 
+.contenedorFlex img {
+    display: block;
+    margin: 0 auto;
+}
