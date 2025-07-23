@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #omardiv{
     margin: 25px;
     background-color: rgb(177, 127, 127);
@@ -62,6 +61,7 @@ body{
 }
 #divportada{
     background-color: rgb(197, 246, 255);
+    margin: 20px;
 }
 form {
     width: 400px;
@@ -107,5 +107,4 @@ input[type="submit"] {
 input[type="submit"]:hover {
     background-color: #cd50fb;
 }
-
 
