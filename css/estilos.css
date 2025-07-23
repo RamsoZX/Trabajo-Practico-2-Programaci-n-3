@@ -112,7 +112,7 @@ input[type="submit"] {
 input[type="submit"]:hover {
     background-color: #cd50fb;
 }
-
+/* Centrado de imagen y titulo */
 .contenedorFlex h2 {
     text-align: center;
     width: 100%;
