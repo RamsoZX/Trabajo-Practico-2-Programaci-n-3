@@ -63,8 +63,49 @@ body{
 #divportada{
     background-color: rgb(197, 246, 255);
 }
-form{
-    background-color: rgb(197, 246, 255);
+form {
+    width: 400px;
+    margin: 20px ; 
+    padding: 20px ;
+    border: 2px solid #f7c9e0;
+    border-radius: 10px;
+    background-color: #be98f7;
+    box-shadow:10px,2px #1e1d1d;
+    font-family: "Segoe UI", sans-serif;
+    font-style: italic;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+    color: #2c2f32;
+}
+
+input[type="text"],
+input[type="email"],
+textarea,
+select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #5b448a;
+    border-radius: 6px;
+    background-color: #faf8fb;
+    color: #212020;
+}
+
+input[type="submit"] {
+    background-color: #220227;
+    color: white;
+    padding: 10px 16px;
+    border: none;
+    border-radius: 6px;
+}
+
+input[type="submit"]:hover {
+    background-color: #cd50fb;
 }
 
 
