@@ -9,12 +9,35 @@
  }
  #azucenadiv{
     margin: 25px;
-    background-color: rgb(88, 115, 234);
+    background-color: rgb(128, 148, 241);
     padding: 25px;
     width: 750px;
     height: 500px;
     border: 15px groove rgb(3, 65, 250);
-    
+ }
+#lizethdiv{
+    margin: 25px;
+    background-color: rgb(160, 223, 133);
+    padding: 25px;
+    width: 750px;
+    height: 700px;
+    border: 15px groove rgb(88, 241, 139);
+ }
+#sebastiandiv{
+    margin: 25px;
+    background-color: rgb(232, 210, 119);
+    padding: 25px;
+    width: 750px;
+    height: 550px;
+    border: 15px groove rgb(219, 152, 52);
+ }
+#karinadiv{
+    margin: 25px;
+    background-color: rgb(170, 254, 255);
+    padding: 25px;
+    width: 750px;
+    height: 550px;
+    border: 15px groove rgb(0, 217, 255);
  }
 =======
 /* estilos para imagenes */
@@ -40,4 +63,5 @@ body{
 #divportada{
     background-color: rgb(197, 246, 255);
 }
->>>>>>> de9008e7be8889ac5c361caf7f3fc371e524e034
+
+
