@@ -6,6 +6,7 @@
     width: 750px;
     height: 500px;
     border: 15px groove rgb(152, 76, 76);
+    border-radius: 20px;
  }
  #azucenadiv{
     margin-left: auto;
@@ -15,6 +16,7 @@
     width: 750px;
     height: 500px;
     border: 15px groove rgb(3, 65, 250);
+    border-radius: 20px;
  }
 #lizethdiv{
     margin-left: auto;
@@ -24,6 +26,7 @@
     width: 750px;
     height: 700px;
     border: 15px groove rgb(88, 241, 139);
+    border-radius: 20px;
  }
 #sebastiandiv{
     margin-left: auto;
@@ -33,6 +36,7 @@
     width: 750px;
     height: 550px;
     border: 15px groove rgb(219, 152, 52);
+    border-radius: 20px;
 
  }
 #karinadiv{
@@ -43,6 +47,7 @@
     width: 750px;
     height: 550px;
     border: 15px groove rgb(0, 217, 255);
+    border-radius: 20px;
  }
  #cristiandiv{
     margin-left: auto;
@@ -52,6 +57,7 @@
     width: 750px;
     height: 550px;
     border: 15px groove rgb(205, 235, 6);
+    border-radius: 20px;
  }
 /* estilos para imagenes */
 .contenedorFlex {
@@ -141,7 +147,8 @@ input[type="submit"]:hover {
     margin: 60px auto;           
     padding: 40px 30px;
     text-align: center;          
-    background-color: #c7f0df;   
+    background-color: #c7f0df;  
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); 
     border-radius: 20px;
     font-family: 'Segoe UI', sans-serif;
 }
