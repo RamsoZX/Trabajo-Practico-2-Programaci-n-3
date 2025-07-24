@@ -190,3 +190,59 @@ input[type="submit"]:hover {
 #karinadiv {
     margin-bottom: 30px;   
 }
+<head>
+  ...
+  <style>
+    /* Estilos del artículo */
+    .articulo-noticia {
+      max-width: 800px;
+      margin: auto;
+      background-color: #ffffff;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 8px 18px rgba(0, 0, 0, 0.1);
+    }
+
+    .articulo-noticia h2 {
+      color: #2c3e50;
+      font-size: 28px;
+      margin-bottom: 20px;
+    }
+
+    .articulo-noticia h3 {
+      color: #3498db;
+      margin-top: 25px;
+      font-size: 22px;
+    }
+
+    .articulo-noticia p {
+      line-height: 1.6;
+      margin-bottom: 15px;
+    }
+
+    .articulo-noticia ul {
+      padding-left: 20px;
+      margin-bottom: 20px;
+    }
+
+    .articulo-noticia ul li {
+      margin-bottom: 8px;
+    }
+
+    figure {
+      text-align: center;
+      margin: 30px 0;
+    }
+
+    figure img {
+      max-width: 150px;
+      height: auto;
+    }
+
+    figcaption {
+      font-size: 14px;
+      color: #666;
+      margin-top: 8px;
+    }
+  </style>
+</head>
